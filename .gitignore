@@ -42,3 +42,13 @@ next-env.d.ts
 
 # skills folders
 **/skills/
+
+# AI agent / local configs
+.claude/
+.agent/
+.agents/
+.codex/
+.gemini/
+.opencode/
+.windsurf/
+.cursor/
