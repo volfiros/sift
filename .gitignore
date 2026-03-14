@@ -52,3 +52,9 @@ next-env.d.ts
 .opencode/
 .windsurf/
 .cursor/
+
+# convex
+.convex/
+
+# langchain / langgraph
+.langchain/
